@@ -18,12 +18,12 @@ var SLIDE_CONFIG = {
 
   // Author information
   presenters: [{
-    name: 'Firstname Lastname',
-    company: 'Job Title, Google',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
-    www: 'http://www.you.com',
-    github: 'http://github.com/you'
+    name: 'Allen Eubank',
+    company: 'Basis Worldwide',
+    gplus: 'https://plus.google.com/+AllenEubank/',
+    twitter: '@alleneubank',
+    www: 'https://alleneubank.com',
+    github: 'http://github.com/adeubank'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
